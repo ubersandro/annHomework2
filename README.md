@@ -1,2 +1,2 @@
 # annHomework2
-Repository hosting code related to the second challenge of the Artificial Neural Networks and Deep Learning course (Politecnico di Milano, December 2022). The challenge was about Time Series Classification. Please refer to https://codalab.lisn.upsaclay.fr/competitions/9056 for the details. 
+Repository hosting code related to the second challenge of the Artificial Neural Networks and Deep Learning course (Politecnico di Milano, December 2022). The challenge was about Time Series Classification. Please refer to https://codalab.lisn.upsaclay.fr/competitions/9056 for the details. We ended up in the first 20 positions of the scoreboard. The development of our DNN solutions is documented in the REPORT pdf file. 
